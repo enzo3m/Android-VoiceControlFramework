@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, VoiceControlServiceActivity!</string>
+    <string name="app_name">SvcDemoVC</string>
+    <string name="permlab_vcfServicePerm">Limitare chi può avviare o comunicare col servizio di controllo vocale</string>
+    <string name="permdesc_vcfServicePerm">Permette all\'applicazione di comunicare col servizio di controllo vocale</string>
+    
+    <string name="init_error">Errore durante l\'avvio del servizio!</string>
+    <string name="init_error_tts_title">Errore TTS</string>
+    <string name="init_error_tts_text">Si è verificato un errore durante l\'inizializzazione del sintetizzatore vocale. Il servizio è stato terminato. Verificare che il motore TTS sia installato correttamente.</string>
+    
+    <string name="tts_init_ok">servizio di controllo vocale in ascolto</string>
+    <string name="tts_start_error">comando non valido o applicazione non configurata</string>
+    <string name="tts_launching_app">avvio applicazione in corso</string>
+    <string name="tts_launching_error">applicazione non configurata</string>
+    <string name="tts_app_started">applicazione avviata</string>
+    <string name="tts_invalid_cmd">comando non valido</string>
+    <string name="tts_repeat_cmd">ripetere comando, prego</string>
+    <string name="tts_sending_cmd">invio comando in corso</string>
+    <string name="tts_sending_cmd_error">errore durante l\'invio del comando</string>
+    <string name="tts_cmd_completed">comando eseguito con successo</string>
+    <string name="tts_cmd_error">errore durante l\'esecuzione del comando</string>
+    <string name="tts_closing_app">chiusura applicazione in corso</string>
+    <string name="tts_closing_error">errore durante la richiesta di chiusura</string>
+    <string name="tts_app_closed">applicazione chiusa</string>
+    <string name="tts_app_not_launched">impossibile avviare applicazione</string>
+    
+    <string name="keywords_cats">android</string><!-- cats: call attention to speech -->
+    <string name="keywords_launch">avvia</string>
+    <string name="keywords_finish">chiudi applicazione</string>
+
+</resources>
