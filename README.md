@@ -1,2 +1,2 @@
 # Android-VoiceControlFramework
-A voice control framework for Android applications
+Project for the course of Embedded Systems for Mobile and Multimedia.
